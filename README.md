@@ -3,7 +3,7 @@
 - 🔭 Foco em front-end
 - 🌱 Estudando git e aperfeiçoamento em front
 - 📫 Contante-me no e-mail: kaionpcesar@gmail.com
-- 😄 Pronouns: ele/dele
+- 😄 Pronomes: ele/dele
 
 <div align="center">
   <a href="https://github.com/kaiocesarnp">
