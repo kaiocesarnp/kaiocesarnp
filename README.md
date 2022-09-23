@@ -2,7 +2,7 @@
 
 - 🔭 Foco em front-end
 - 🌱 Estudando git e aperfeiçoamento em front
-- 📫 Contante-me no e-mail: kaionpcesar@gmail.com
+- <--📫 Contante-me no e-mail: kaionpcesar@gmail.com-->
 - 😄 Pronomes: ele/dele
 
 <div align="center">
