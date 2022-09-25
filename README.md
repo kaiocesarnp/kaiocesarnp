@@ -1,8 +1,10 @@
 ### Olá, eu sou o Kaio César! 👋
 
+<--
 - 🔭 Foco em front-end;
 - 🌱 Estudando aperfeiçoamento em front e git;
 - 😄 Pronomes: ele/dele;
+-->
 
 <div align="center">
   <a href="https://github.com/kaiocesarnp">
