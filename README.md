@@ -1,4 +1,4 @@
-### Olá, eu sou o Kaio César! 👋
+### Olá, eu sou o Kaio César! 🙋‍♂️
 
 - 🔭 Foco em front-end;
 - 🌱 Estudando aperfeiçoamento em front e git;
