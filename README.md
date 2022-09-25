@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Kaio César! 👋
 
-- 🔭 Foco em front-end
+- 🔭 Foco em front-end;
 - 🌱 Estudando aperfeiçoamento em front e git
 - 😄 Pronomes: ele/dele
 
