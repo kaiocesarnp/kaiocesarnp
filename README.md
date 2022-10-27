@@ -1,6 +1,6 @@
 ### Olá, eu sou o Kaio César 🤟
 
-- 📖 Portfólio: https://kaiocesarnp.github.io/portfolio
+- 📚 Portfólio: https://kaiocesarnp.github.io/portfolio
 - 🔭 Foco em front-end;
 - 🌱 Estudando aperfeiçoamento em front e git;
 - 😄 Pronomes: ele/dele;
