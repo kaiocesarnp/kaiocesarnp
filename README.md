@@ -2,7 +2,7 @@
 
 - 📚 Portfólio: https://kaiocesarnp.github.io/portfolio
 - 🔭 Foco em front-end;
-- 🌱 Estudando aperfeiçoamento em front e git;
+- 🌱 Estudando aperfeiçoamento em front;
 <!-- - 😄 Pronomes: ele/dele; -->
 
 <div align="center">
