@@ -3,7 +3,7 @@
 - 📚 Portfólio: https://kaiocesarnp.github.io/portfolio
 - 🔭 Foco em front-end;
 - 🌱 Estudando aperfeiçoamento em front e git;
-- 😄 Pronomes: ele/dele;
+<!-- - 😄 Pronomes: ele/dele; -->
 
 <div align="center">
   <a href="https://github.com/kaiocesarnp">
