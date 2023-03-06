@@ -17,6 +17,8 @@
   <img align="center" alt="kaio-Js" height="33" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="kaio-CSS" height="33" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="kaio-CSS" height="33" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+ <img align="center" alt="kaio-CSS" height="33" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ 
 </div>
 
 ##
