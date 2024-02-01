@@ -1,7 +1,7 @@
 ### Olá, eu sou o Kaio César 🤟
 
 - 📚 Portfólio: https://kaiocesarnp.github.io/portfolio
-- 🌱 Estudando Python e git;
+<!-- - 🌱 Estudando Python e git; -->
 <!-- - 🔭 Foco em front-end; -->
 <!-- - 😄 Pronomes: ele/dele; -->
 
